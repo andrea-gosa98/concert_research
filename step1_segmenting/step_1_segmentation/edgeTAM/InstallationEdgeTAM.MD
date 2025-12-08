@@ -1,4 +1,7 @@
+The script for step 1 segmenting is at .\edgeTAM\EdgeTAM\notebooks\wimtest.py
 
+# to do
+- to discuss
 
 ```bash
 git clone https://github.com/facebookresearch/EdgeTAM.git && cd EdgeTAM
